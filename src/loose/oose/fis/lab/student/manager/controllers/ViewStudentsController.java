@@ -41,4 +41,3 @@ public class ViewStudentsController {
             new Student("Michelle", "Roberts", 22, 7.65)
     );
 }
-
