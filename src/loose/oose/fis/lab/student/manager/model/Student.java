@@ -73,4 +73,3 @@ public class Student {
         this.meanGrade = meanGrade;
     }
 }
-
