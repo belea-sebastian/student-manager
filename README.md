@@ -1,4 +1,4 @@
-# student-manager
+# This implementation was done by: Belea Sebastian (student A) & Bașnic Ioan (student B)
 # **Student Manager Application**
 
 ## _Introduction_
